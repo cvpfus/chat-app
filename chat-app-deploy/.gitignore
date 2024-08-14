@@ -2,3 +2,4 @@
 .env
 faker.js
 node_modules
+.vercel
