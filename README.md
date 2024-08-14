@@ -1,3 +1,3 @@
 ## Chat App
 
-Link: https://chat-app-98mm.vercel.app/
+Link: http://v3jfvt4s4hd9l7gqqctivccc4o.ingress.aptero.net/
