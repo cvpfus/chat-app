@@ -1,0 +1,4 @@
+.idea
+.env
+faker.js
+node_modules
