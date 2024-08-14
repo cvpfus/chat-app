@@ -1,3 +1,3 @@
 ## Chat App
 
-Link: https://chat-app-deploy-otka4ocvs-cvpfus-projects.vercel.app/
+Link: https://chat-app-98mm.vercel.app/
